@@ -1,0 +1,8 @@
+Have Ewe Herd
+=============
+Have Ewe Herd is a whimsical puzzle game in which the player herds sheep into pens. I wrote it for a game jam last July. Using the PulpCore engine, I was able to complete it in 4 days. That included making the art and 10 introductory levels, now included as the tutorial. After the Jam, I continued work for a few more weeks, fixing bugs, improving the core movement rules, and adding levels. 
+
+Unfortunately, recent Java updates have rendered PulpCore unstable on several browsers. I would like to continue development, but I will probably port the game to iPad, rather than continuing with the applet version.
+
+Mark Kreitler
+December, 2011
